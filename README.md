@@ -54,18 +54,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=architjain798&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=architjain798&theme=tokyonight&column=7&margin-w=15&margin-h=15" />
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=architjain798&theme=tokyo-night&hide_border=true" />
-</div>
-
 ## 🎯 Current Focus
 
 - 🔭 Working on full-stack applications with Java Spring Boot and React
